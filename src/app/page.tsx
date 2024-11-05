@@ -5,6 +5,20 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Task from "./components/Task";
 
+
+
+// TO DO: 
+
+// 1. EDIT FEATURE(modal, date change, id change when the task is updated/edited)
+// 2. UI IMPORVE
+// 3. Done Task go to last section
+
+
+// Extra
+// if possible use animation when the Task is created/deleted/edited
+
+
+
 interface TaskData {
   id: number,
   task: string,
