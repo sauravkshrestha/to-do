@@ -25,3 +25,9 @@ body {
     text-wrap: balance;
   }
 }
+
+
+/* imput[type="checkbox"]:checked + div{
+  text-decoration: line-through;
+  background-color: red;
+} */
